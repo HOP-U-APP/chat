@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070404168510",
+    "project_id": "e-chat-c4651",
+    "storage_bucket": "e-chat-c4651.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070404168510:android:26f9a0e0863f38e0811a6f",
+        "android_client_info": {
+          "package_name": "com.example.blue_e_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070404168510-g06du23r2l0r9u3gqgf0afjms7tqavgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBglTJJv5li2oUyPbDMmHQSZ4vXQV98Edw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070404168510-g06du23r2l0r9u3gqgf0afjms7tqavgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
